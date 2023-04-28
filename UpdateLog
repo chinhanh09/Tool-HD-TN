@@ -1,2 +1,7 @@
                   ====== V4.28 ======
 - Cập nhật tính năng tra cứu thông tin doanh nghiệp bằng mã số thuế
+
+
+Chú ý: Máy báo lỗi liên quan đến TLS thì cài file MicrosoftEasyFix51044 để sửa.
+Đây là Tool của Microsoft chỉnh sửa Registry để hỗ trợ TLS 1.1, TLS 1.2 
+do WebServer sau này không còn hỗ trợ TLS 1.0 nữa.
