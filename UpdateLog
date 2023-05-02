@@ -1,6 +1,5 @@
--------- V5.2 --------
-- Cập nhật tính năng tra cứu thông tin doanh nghiệp bằng mã số thuế
-- Tối ưu CPU,RAM khi chạy Tool
+- Cập nhật tính năng tra cứu thông tin doanh nghiệp bằng mã số thuế.
+- Thêm tính năng tự động điền thông tin KH khi thêm mới.
 
 
 Chú ý: Máy báo lỗi liên quan đến TLS thì cài file MicrosoftEasyFix51044 để sửa.
