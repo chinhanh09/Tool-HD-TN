@@ -1,7 +1,7 @@
 --- Tool HD ---
 
 Các chức năng của Tool:
-- Kiểm tra trạng thái phát hành / cấp mã của CQT (Thời gian kiểm tra cho mỗi tác vụ là 3 phút, quá 3 phút mà hóa dơn không phát hành hoặc cấp mã của CQT vui lòng liên hệ TCTN)
+- Kiểm tra trạng thái phát hành / cấp mã của CQT (Thời gian kiểm tra cho mỗi tác vụ là 3 phút, quá 3 phút nếu hóa đơn không phát hành hoặc không cấp mã của CQT vui lòng liên hệ TCTN)
 - Tra cứu thông tin khách hàng bằng Mã số thuế (Dữ liệu được lấy từ Website: http://masothue.com) (Đây là chức năng dùng để tham khảo thông tin, mọi nội dung tra cứu đều thuộc sở hữu của trang masothue.com)
 
 Hướng dẫn sử dụng:
