@@ -1,10 +1,8 @@
-5.14 (New)
-- Sửa lỗi sai Classname khi dùng ControlClick.
-- Đính kèm Tool tăng tốc độ phát hành HDDT của Vinvoice (Test) 
-5.3 - Thêm tính năng tự động điền thông tin KH khi thêm mới/sửa thông tin khách hàng.
-4.4 - Cập nhật tính năng tra cứu thông tin doanh nghiệp bằng mã số thuế.
+5.14 - Sửa lỗi sai Classname khi dùng ControlClick.
+5.3  - Thêm tính năng tự động điền thông tin KH khi thêm mới/sửa thông tin khách hàng.
+4.4  - Cập nhật tính năng tra cứu thông tin doanh nghiệp bằng mã số thuế.
 
 
-Chú ý: Máy báo lỗi liên quan đến TLS thì cài file MicrosoftEasyFix51044 để sửa.
+Chú ý: Nếu tính năng tra cứu thông tin doanh nghiệp bằng mã số thuế không dùng được thì cài file MicrosoftEasyFix51044 để sửa.
 Đây là bản sửa lỗi của Microsoft dùng để chỉnh sửa Registry hỗ trợ TLS 1.1, TLS 1.2 
 do WebServer sau này không còn hỗ trợ TLS 1.0 nữa.
