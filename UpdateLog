@@ -1,9 +1,9 @@
+
+6.24 - Cập nhật cấu trúc mới của Masothue.com. Thêm cảnh báo khi DN ngừng hoạt động
 6.23 - Thêm Tiện ích lấy DS KH đã từng xuất HĐ QRCODE, Trả chậm (DS được lấy từ đầu năm).
 6.22 - Thêm tính năng kiểm tra hình thức thanh toán(TC,QR) và kiểm tra HD > 20 triệu trả ngay.
-5.26 - Thêm tính năng tham chiếu Thành tiền -> Số lượng
-5.14 - Sửa lỗi sai Classname khi dùng ControlClick.
-5.3  - Thêm tính năng tự động điền thông tin DN khi thêm mới/sửa thông tin khách hàng bằng thông tin tra cứu được.
-4.4  - Cập nhật tính năng tra cứu thông tin DN bằng mã số thuế.
+
+
 
 
 Chú ý: Nếu tính năng tra cứu thông tin DN bằng mã số thuế không dùng được thì cài file MicrosoftEasyFix51044 để sửa.
