@@ -1,4 +1,4 @@
-8.10 - Fix tốc độ xử lý nhanh hơn, ít tốn Ram hơn. Thông báo số lượng hóa đơn còn lại của Vi Na
+8.14 - Fix tốc độ xử lý nhanh hơn, ít tốn Ram hơn. Thông báo số lượng hóa đơn còn lại của Vi Na
 6.30 - Thêm: Kiểm tra đơn giá HD Khuyến mãi, kiểm tra tổng tiền xuất trong ngày của 1 KH >20 triệu
 6.24 - Cập nhật cấu trúc mới của Masothue.com. Thêm cảnh báo khi DN ngừng hoạt động
 6.23 - Thêm Tiện ích lấy DS KH đã từng xuất HĐ QRCODE, Trả chậm (DS được lấy từ đầu năm).
