@@ -1,4 +1,4 @@
-9.29 - Thêm chức năng tải hóa đơn PDF, Chuyển đổi hóa đơn trực tiếp trên tool
+10.10 - Sửa chức năng tải hóa đơn PDF, Chuyển đổi hóa đơn trực tiếp trên tool
 8.14 - Fix tốc độ xử lý nhanh hơn, ít tốn Ram hơn. Thông báo số lượng hóa đơn còn lại của Vi Na
 
 Chú ý: Nếu tính năng tra cứu thông tin DN bằng mã số thuế không dùng được thì cài file MicrosoftEasyFix51044 để sửa.
